@@ -1,4 +1,4 @@
-Click Here to visit-> bmi-calculator-90nkrxmdb-mahi-singhs-projects.vercel.app
+Click Here to visit-> [bmi-calculator-90nkrxmdb-mahi-singhs-projects.vercel.app](https://bmi-calculator-90nkrxmdb-mahi-singhs-projects.vercel.app)
 
 # BMI Calculator
 
